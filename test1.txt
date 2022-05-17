@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is AC00-911F
+
+ Directory of C:\Users\eptttwx\Desktop\Project
+
+05/17/2022  03:09 PM    <DIR>          .
+05/17/2022  03:09 PM    <DIR>          ..
+05/17/2022  03:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  101,028,601,856 bytes free
